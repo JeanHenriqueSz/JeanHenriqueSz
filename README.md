@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Jean e sou técnico em automação industrial, no Brasil.</p>
+<p align="left">Meu nome é Jean e sou técnico em automação industrial.</p>
 
 ###
 
