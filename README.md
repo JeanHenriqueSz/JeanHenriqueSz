@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudando no Portal tech powered by Proz tecnologia | AWS | Meta e Hackers do bem.<br>🎲 Fato Engraçado: No Python, não é apenas a cobra que fica indiferente a erros. Se você tentar dividir um número por zero em Python, em vez de lançar um erro e parar tudo, o interpretador simplesmente responde com a expressão filosófica "infinito" - porque, afinal de contas, quem pode dizer o que acontece em um relacionamento entre um número e o zero? 🐍💻✨</p>
+<p align="left">🎲 Fato Engraçado: No Python, não é apenas a cobra que fica indiferente a erros. Se você tentar dividir um número por zero em Python, em vez de lançar um erro e parar tudo, o interpretador simplesmente responde com a expressão filosófica "infinito" - porque, afinal de contas, quem pode dizer o que acontece em um relacionamento entre um número e o zero? 🐍💻✨</p>
 
 ###
 
